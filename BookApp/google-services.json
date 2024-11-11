@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195681839038",
+    "project_id": "bookapp-yp",
+    "storage_bucket": "bookapp-yp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195681839038:android:8a7917d88c7989c059bbef",
+        "android_client_info": {
+          "package_name": "Yesha.BookApp.Lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7vRLDDOhaWzYsTJ5Z7vL1pNlkLNS1xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
